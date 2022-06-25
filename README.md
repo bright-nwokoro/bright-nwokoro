@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on backend and devops projects
+- 🌱 I’m currently learning blockchain
+- 👯 I’m looking to collaborate on backend (nodejs) and devops project
+- 💬 Ask me about anything relating to software development
+- 📫 How to reach me: email - brightnwokoro13@gmail.com
+- ⚡ Fun fact: I've got more private repos than public ones. I'm a fullstack dev but honestly enjoys working on backend projects
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bright-nwokoro&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
