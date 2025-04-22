@@ -15,46 +15,49 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I’m Bright Nwokoro — Backend & DevOps Engineer
+# 👋 Hi, I’m Bright Nwokoro — Full Stack Engineer | DevOps | Cloud-Native Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bright%20Nwokoro-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bright-nwokoro)
 [![Gmail](https://img.shields.io/badge/Gmail-brightnwokoro13@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:brightnwokoro13@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=bright-nwokoro&color=blueviolet)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20to%20Production-1M%2B%20lines-blue)
 
-🔧 Passionate **Software Engineer** with a solid track record of delivering scalable backend systems, infrastructure automation, and full-stack web applications. I specialize in building reliable software using **TypeScript**, **Node.js**, **Go**, **Python**, **PostgreSQL**, **MongoDB**, **Docker**, **Kubernetes**, **Terraform**, and **AWS**.
+I'm a **versatile Software Engineer** with experience building full stack web applications, backend APIs, frontend interfaces, and automating cloud infrastructure. I love solving problems and bringing ideas to life with code.
 
-I'm also the creator of [**JobDork**](https://job-dork.kyreer.ng) — a smart job discovery tool helping African tech talent connect with top opportunities.
+💡 I’m the creator of [**JobDork**](https://job-dork.kyreer.ng) — a smart job discovery tool helping African tech talent connect with top opportunities.
 
 ---
 
 ## 🚀 What I’m Up To
-- 🔭 Currently working on **backend engineering** and **DevOps infrastructure** projects.
-- 🌱 Learning **blockchain development**, smart contracts, and decentralized systems.
-- 👯 Looking to collaborate on **Node.js**, **Go**, or **cloud-native** backend projects.
-- 💬 Ask me anything about **software architecture**, **infrastructure as code**, or **DevOps workflows**.
+- 🔭 Working on **backend systems**, **frontend interfaces**, and **DevOps pipelines**
+- 🌱 Exploring **blockchain development**, **Solidity**, and **smart contracts**
+- 👯 Looking to collaborate on **full stack projects** (Node.js, React, Next.js, Go, Python, AWS)
+- 💬 Ask me anything about software development, CI/CD, containerization, or RESTful APIs
 - 📫 Reach me at: **brightnwokoro13@gmail.com**
-- ⚡ Fun fact: I’ve got more private repos than public ones — I’m a fullstack dev, but I truly enjoy working on complex backend systems.
+- ⚡ Fun fact: I’ve got more private repos than public ones — building in silence, delivering with impact
 
 ---
 
 ## 🛠️ Tech Toolbox
 
-**Languages:**  
-TypeScript · JavaScript · Go · Python · Bash
+### 🚀 Languages
+TypeScript · JavaScript · Go · Python · Bash · HTML · CSS · SQL
 
-**Backend Frameworks:**  
-Node.js (Express.js, NestJS) · Go (Gin, Fiber) · Python (FastAPI, Flask)
+### 🧠 Backend & APIs
+Node.js (Express.js, NestJS) · Go (Gin, Fiber) · Python (FastAPI, Flask) · REST · GraphQL
 
-**Databases:**  
+### 💻 Frontend
+React.js · Next.js · Tailwind CSS · Redux · HTML5 · CSS3 · Chakra UI
+
+### 🗃️ Databases
 PostgreSQL · MySQL · MongoDB · Redis
 
-**DevOps & Cloud:**  
-Docker · Kubernetes · Terraform · Jenkins  
-AWS (EC2, RDS, S3, Lambda, DynamoDB, ECS, CloudFormation)
+### ☁️ Cloud & DevOps
+AWS (EC2, S3, RDS, Lambda, DynamoDB, CloudFormation)  
+Docker · Kubernetes · Terraform · Jenkins · GitHub Actions · NGINX
 
-**Tools & Practices:**  
-CI/CD Pipelines · Infrastructure as Code (IaC) · Microservices · GitHub Actions · Monitoring (Grafana, Prometheus)
+### 📦 Tools & Practices
+Git · CI/CD · Infrastructure as Code (IaC) · Microservices · Agile · Unit Testing · E2E Testing · Monitoring (Grafana, Prometheus)
 
 ---
 
@@ -73,9 +76,24 @@ CI/CD Pipelines · Infrastructure as Code (IaC) · Microservices · GitHub Actio
 
 ---
 
-## 📬 Let’s Connect!
+## 📌 Featured Project
 
-I’m always open to new projects, freelance gigs, or full-time roles in **Backend Engineering**, **DevOps**, or **Cloud Infrastructure**.
+🚀 **[JobDork](https://job-dork.kyreer.ng)**  
+A smart job discovery platform helping African tech talent connect with remote and local opportunities.  
+Built with **Next.js**, **TypeScript**, **PostgreSQL**, **Docker**, and deployed on **AWS**.  
+> 💡 I am the creator and lead developer of this project — currently in production use.
 
-> *Building quietly. Delivering loudly. Let’s build something great together.*
+<!-- Repo is private, so not using a pinned card. -->
+
+---
+
+## 🌍 Let’s Connect & Collaborate
+
+If you're looking for a **Full Stack Engineer**, **Backend Developer**, **DevOps Specialist**, or just a passionate coder who can turn vision into reality, let’s chat!
+
+> *Building quietly. Delivering loudly. Ready to join a world-class team or co-create something impactful.*
+
+📬 **Email:** brightnwokoro13@gmail.com  
+🔗 **Portfolio/Project Site:** [job-dork.kyreer.ng](https://job-dork.kyreer.ng)
+
 
